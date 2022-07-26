@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">metronome_app</string>
+    <string name="app_name">Callum\'s Metronome</string>
+    <string name="metronome_start">Start</string>
+    <string name="metronome_stop">Stop</string>
 </resources>
