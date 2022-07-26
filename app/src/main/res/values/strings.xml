@@ -2,4 +2,6 @@
     <string name="app_name">Callum\'s Metronome</string>
     <string name="metronome_start">Start</string>
     <string name="metronome_stop">Stop</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
 </resources>
